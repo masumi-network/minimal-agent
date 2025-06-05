@@ -1,0 +1,1 @@
+This agent is very simple, it recieves your input and returns it 3x, as an echo. It doesn't use any AI or API. Used for testing and examples. 
